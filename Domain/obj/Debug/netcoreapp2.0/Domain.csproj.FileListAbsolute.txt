@@ -1,0 +1,17 @@
+C:\Users\danie\Desktop\ProjetBackEnd-master\ProjetoDaniel.Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
+C:\Users\danie\Desktop\ProjetBackEnd-master\ProjetoDaniel.Domain\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\danie\Desktop\ProjetBackEnd-master\ProjetoDaniel.Domain\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\danie\Desktop\ProjetBackEnd-master\ProjetoDaniel.Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ProjetBackEnd-master\ProjetoDaniel.Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ProjetBackEnd-master\ProjetoDaniel.Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
+C:\Users\danie\Desktop\ProjetBackEnd-master\ProjetoDaniel.Domain\obj\Debug\netcoreapp2.0\Domain.dll
+C:\Users\danie\Desktop\ProjetBackEnd-master\ProjetoDaniel.Domain\obj\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\danie\Desktop\ProjetBackEnd\Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
+C:\Users\danie\Desktop\ProjetBackEnd\Domain\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\danie\Desktop\ProjetBackEnd\Domain\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\danie\Desktop\ProjetBackEnd\Domain\obj\Debug\netcoreapp2.0\Domain.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\ProjetBackEnd\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ProjetBackEnd\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ProjetBackEnd\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
+C:\Users\danie\Desktop\ProjetBackEnd\Domain\obj\Debug\netcoreapp2.0\Domain.dll
+C:\Users\danie\Desktop\ProjetBackEnd\Domain\obj\Debug\netcoreapp2.0\Domain.pdb
