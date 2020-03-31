@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ProjetoDaniel.Dto/1.0.0": {
+        "runtime": {
+          "ProjetoDaniel.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoDaniel.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
